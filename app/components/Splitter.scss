@@ -1,0 +1,8 @@
+.splitpane-splitter {
+    width: 2px;
+    background-color: #000;
+
+    &:hover {
+        cursor: pointer;
+    }
+}
